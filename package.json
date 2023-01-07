@@ -1,0 +1,27 @@
+{
+  "name": "threejs_demo",
+  "version": "1.0.0",
+  "description": "three js demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "node pack.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weisiwu/threejs_demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weisiwu/threejs_demo/issues"
+  },
+  "homepage": "https://github.com/weisiwu/threejs_demo#readme",
+  "dependencies": {
+    "three": "^0.148.0"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^15.0.1",
+    "rollup": "^3.9.1"
+  }
+}
